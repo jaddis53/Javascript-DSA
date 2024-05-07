@@ -3,8 +3,10 @@
 //n=12   false
 
 const isPalindrome=function(x){
-    console.log(+"a")
+    // console.log(+"10")
     
+    return x === +x.toString().split("").reverse().join("")
 }
 
-isPalindrome(121);
+const res =isPalindrome(121);
+console.log(res)
