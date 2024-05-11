@@ -5,8 +5,8 @@
 const isPalindrome=function(x){
     // console.log(+"10")
     
-    return x === +x.toString().split("").reverse().join("")
+    return  x === +x.toString().split("").reverse().join("")
 }
 
-const res =isPalindrome(121);
+const res =isPalindrome(12);
 console.log(res)

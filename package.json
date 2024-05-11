@@ -1,0 +1,12 @@
+{
+  "name": "js-dsa",
+  "version": "1.0.0",
+  "description": "This is a data structures and algorithms question done in JavaScript",
+  "main": "palindrome.js",
+  "scripts": {
+    "start": "node palindrome.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
