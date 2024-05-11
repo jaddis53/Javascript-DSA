@@ -4,7 +4,7 @@
   "description": "This is a data structures and algorithms question done in JavaScript",
   "main": "palindrome.js",
   "scripts": {
-    "start": "node palindrome.js"
+    "start": "node fibonacci.js"
   },
   "keywords": [],
   "author": "",
